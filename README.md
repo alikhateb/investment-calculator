@@ -1,6 +1,6 @@
 # InvestmantCalculator
 
-This demo project contains signals, computed signal, input/output signal, standalone feature, currency pipe, service and dependency injection.
+This demo project Angular version 18.0.2 that contains signals, computed signal, input/output signal, standalone feature, currency pipe, service and dependency injection.
 
 ## Run App
 
