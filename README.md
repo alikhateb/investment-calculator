@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Run App
 
-https://alikhateb.github.io/demo-angular-app/
+https://alikhateb.github.io/investment-calculator/
 
 ## Development server
 
