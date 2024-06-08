@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
 
+This demo project contains signals, computed signal, input/output signal, standalone feature, currency pipe, service and dependency injection.
+
 ## Run App
 
 https://alikhateb.github.io/investment-calculator/
